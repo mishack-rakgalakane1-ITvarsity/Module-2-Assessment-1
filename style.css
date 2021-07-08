@@ -87,9 +87,10 @@ body{
 /*===========INFO BOX======*/
 a.info-box{
     text-decoration: none;
-    background:rgba(255,255,.8);
+    background:rgba(255,255,255,.8);
     width: 90%;
     height:90px;
+    display: block;
     margin:auto;
     margin-top: 12px;
     padding:1px;
@@ -119,6 +120,7 @@ a.info-box{
     margin-top: 25px;
     height: 40px;
 }
+/*=============Info-box-full=====*/
 #info-box-full{
     background: rgba(255,255,255, .8);
     width: 90%;
